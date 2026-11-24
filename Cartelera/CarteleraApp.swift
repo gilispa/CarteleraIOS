@@ -11,7 +11,7 @@ import SwiftUI
 struct CarteleraApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PeliculasView()
         }
     }
 }
